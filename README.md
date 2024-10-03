@@ -13,3 +13,5 @@ Make sure you have Node.js installed, then run:
 (for live updates to the styles)
    ```bash
    npm run sass
+
+4. View the website with something like Live Server (VSC Extension)
